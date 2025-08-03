@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, this is Omar,"
+title: "Hello, this is Tamim,"
 excerpt: "About me"
 
 ---
@@ -16,9 +16,7 @@ redirect_from:
   - /about.html
 -->
 
-<p align="justify">
-I am a PhD student in the <a href="https://web.cs.dartmouth.edu/">Computer Science</a>  department at <a href="https://home.dartmouth.edu/">Dartmouth</a>. I am passionate about leveraging AI and NLP to advance Social Science and Computational Health. Currently, I am working on information extraction from texts to derive structured knowledge from unstructured narratives, aiming to improve discourse understanding. I am also enthusiastic about Multimodal NLP—particularly in designing models that can effectively fuse information across various modalities to enhance reasoning capabilities and enable seamless Human-AI interaction. In Spring 2025, I interned at <a href="https://aws.amazon.com/quicksight/q/">Amazon</a> with <a href="https://ngpatrick.com/">Patrick's</a> team to improve the visual reasoning abilities of MLLMs using Reinforcement Learning. Please check details about my <a href="https://omar-sharif.github.io/research/">research here</a>.
-</p> 
+<p align="justify"> Hi, I'm Fahim Shakil Tamim, a Lecturer in the Computer Science & Engineering department at IUBAT. My research focuses on Natural Language Processing (NLP), Multimodal AI, and Social Computing. I enjoy working on real-world problems—like Bengali text classification, commercial content detection, and depression analysis—using transformer-based models. Recently, I’ve explored combining language and vision using models like mBERT and ViT. You can learn more about my work on <a href="https://www.researchgate.net/profile/Fahim-Tamim-3">ResearchGate</a> or <a href="https://scholar.google.com/citations?user=35u_dC4AAAAJ">Google Scholar</a>. </p>
 
 <!-- <p align="justify">
 Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest.  
