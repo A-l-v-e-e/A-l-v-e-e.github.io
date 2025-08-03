@@ -8,9 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omar Sharif | (ওমর শরিফ)"
+title                    : "Fahim Shakil Tamim | (ফাহিম শাকিল তামিম)"
 title_separator          : "-"
-name                     : &name "Omar Sharif"
+name                     : &name "Fahim Shakil Tamim"
 description              : &description ""
 url                      : https://omar-sharif.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Omar Sharif"
-  avatar           : "sharif-emnlp.png"
+  name             : "Fahim Shakil Tamim"
+  avatar           : "me.png"
   bio              : "Graduate student at Dartmouth CS. Interested to apply deep learning to understand natural language."
-  location         : "Hanover, New Hampshire"
-  employer         : #"Lecturer at Dept. of CSE, CUET."
+  location         : "Dhaka, Bangladesh"
+  employer         : #"Lecturer at Dept. of CSE, IUBAT."
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=TBBRv2wAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
-  email            : "omar.sharif1303@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Omar-Sharif-5"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=35u_dC4AAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
+  email            : "fstamim9@gmailc.com"
+  researchgate     :  "https://www.researchgate.net/profile/Fahim-Tamim-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "omar-sharif"
+  github           : "FS-Tamim"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "omar1303"
+  linkedin         : "fahim-shakil-tamim"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -115,7 +115,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  dblp             : "https://www.semanticscholar.org/author/Omar-Sharif/2073472600"
+  dblp             : #"https://www.semanticscholar.org/author/Omar-Sharif/2073472600"
   wikipedia        :
 
 
