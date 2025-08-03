@@ -22,9 +22,9 @@ redirect_from:
 Previously, I earned my M.Sc. and B.Sc. in Computer Science and Engineering from CUET under the supervision of <a href="https://scholar.google.com/citations?user=srYxYhcAAAAJ&hl=en&authuser=2"> Dr. Moshiul Hoque</a> as a member of the CUET NLP Lab. Besides research, I love to work with Data structures and Algorithms. Throughout my academic career, I have participated in ICPC, NCPC, and numerous national-level programming contest.  
 </p> -->
 
-<b>Contact: 📧</b> [<font color= "#990033" >fstamim9@gmailc.com</font>](fstamim9@gmailc.com)
+<b>Contact: 📧</b> [<font color= "#990033" >fstamim9@gmailc.com</font>](fstamim9@gmail.com)
 
-<b>My latest: </b> [<a href="flowcv.me/fahim-shakil-tamim"><font color="#990033">Resume</font></a>]
+<b>My latest: </b> [<a href="https://flowcv.me/fahim-shakil-tamim"><font color="#990033">Resume</font></a>]
 
 
 <!---
